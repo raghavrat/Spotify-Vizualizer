@@ -114,11 +114,3 @@ python main.py
 - Verify screen resolution
 - Check transparency support
 
-## Future Plans
-
-- Media controls
-- Progress bar
-- Volume control
-- Lyrics integration
-- Custom themes
-- Window size adjustment
